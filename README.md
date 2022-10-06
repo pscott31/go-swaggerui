@@ -1,1 +1,1 @@
-# go-swaggerui
+An embedded copy of swagger-ui that you can use to serve up swagger API docs directly inside a go server.
